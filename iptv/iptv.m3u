@@ -1,44 +1,90 @@
 #EXTM3U
-#EXTINF:-1,TR: TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TR: KANAL D
-https://kanalddvr.blutv.com/blutv_kanald_dvr2/live.m3u8
-#EXTINF:-1,TR: STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1,TR: STAR TV FHD
-http://195.155.98.170:5858/play/a09z?checkedby:iptvcat.com
-#EXTINF:-1,TR: ATV
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF:-1,TR: TV G�STER
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-#EXTINF:-1,TR: FOX TV
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1664522826&st=lDdRO98cUgPMxnj74YLxqQ
-#EXTINF:-1,TR: 360 TV
-https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
-#EXTINF:-1,TR: FLASH TV
-https://yayin5.canlitv.day/live/flashtv.stream/playlist.m3u8?hash=e607f20063088c90b971f4749e4aba5b
-#EXTINF:-1,TR: TV 8 HD
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?sid=4rl8z1t79mrh&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1,TR: DMAX
-https://dogus-live.daioncdn.net/dmax/playlist.m3u8
-#EXTINF:-1,TR: CNN T�RK
+#EXTINF:-1, CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1,TR: TRT HABER
+#EXTINF:-1, TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TR: HABER T�RK
+#EXTINF:-1, HABER TÜRK
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
-#EXTINF:-1,TR: HABER GLOBAL
+#EXTINF:-1, HABER GLOBAL
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF:-1,TR: KANAL 24
+#EXTINF:-1, KANAL 24
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
-#EXTINF:-1,TR: BLOOMBERG HD
+#EXTINF:-1, ULUSAL KANAL
+https://live.canlitv.center/ulusalk.m3u8?anahtar=3uFoBZvAj6QAf1wsD36MrA&sure=1664628748&ip=31.206.131.188
+#EXTINF:-1, BLOOMBERG HD
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
-#EXTINF:-1,TR: TARIM TV UHD
+#EXTINF:-1, TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT AVAZ SD
+https://tv-trtavaz.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1, KANAL D
+https://kanalddvr.blutv.com/blutv_kanald_dvr2/live.m3u8
+#EXTINF:-1, STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1, STAR TV FHD
+http://195.155.98.170:5858/play/a09z?checkedby:iptvcat.com
+#EXTINF:-1, ATV
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:-1, SHOW TV
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:-1, SHOW MAX
+https://live2.canlitv.center/showmax2.m3u8?anahtar=jTBJHplRRvc-3wYdaoBIoA&sure=1664628665&ip=31.206.131.188
+#EXTINF:-1, BEYAZ  TV
+https://stream-01.ix7.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzI5dKmEC0O6spXKcZ8qgLwBv6InY4S3_8Z-IZjxjbAZT)/dm/3/x4kopfq/d/live-4.m3u8
+#EXTINF:-1, FOX TV
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1664522826&st=lDdRO98cUgPMxnj74YLxqQ
+#EXTINF:-1, 360 TV
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:-1, A2
+https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=yUDsWj6o6ubU-pcDC-yb-A&e=1664652945&SessionID=1.3.1558442888.1664559656&StreamGroup=canli-yayin&Site=&DeviceGroup=web&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c
+#EXTINF:-1, TEVE2
+https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?sid=4rwbw1qsk60j&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
+#EXTINF:-1, FLASH TV
+https://yayin5.canlitv.day/live/flashtv.stream/playlist.m3u8?hash=e607f20063088c90b971f4749e4aba5b
+#EXTINF:-1, TV 8 HD
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?sid=4rl8z1t79mrh&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1, TV 8,5
+https://mugla.tvizlehd.com/tv85.m3u8?tkn=51fXNMsQfunzfOa4FDfUhw&tms=1664620756&hst=tr.canlitv.link
+#EXTINF:-1, CİNE5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w254805657.m3u8
+#EXTINF:-1, DMAX
+https://dogus-live.daioncdn.net/dmax/playlist.m3u8
+#EXTINF:-1, TLC
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?sid=4rwc7thpuv33&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
+#EXTINF:-1, TARIM TV UHD
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
-#EXTINF:-1,TR: TRT BELGESEL
+#EXTINF:-1, TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TR: TRT BELGESEL 2
+#EXTINF:-1, TRT BELGESEL 2
 http://195.155.98.170:5858/play/a09f?checkedby:iptvcat.com
+#EXTINF:-1, KÖY TV
+https://yayin1.canlitv.day/canlitv/koytv/chunklist_w1022560626.m3u8?hash=e607f20063088c90b971f4749e4aba5b
+#EXTINF:-1, ÇİFTÇİ TV
+https://h92.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8?nimblesessionid=22839387
+#EXTINF:-1, İBB TV
+https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist_w1530964626.m3u8
 5858/play/a09f?checkedby:iptvcat.com
-#EXTINF:-1, POWER T�RK
+#EXTINF:-1, POWER TÜRK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8?nimblesessionid=184049473
+#EXTINF:-1, KRAL POP
+https://rr1---sn-8vq54voxu-5qcl.googlevideo.com/videoplayback?expire=1664630890&ei=Cew3Y6yZOoGH1gL_zZ_oBQ&ip=31.206.131.188&id=GuFTuKoXepw.6&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=ZQ&mm=44%2C29&mn=sn-8vq54voxu-5qcl%2Csn-nv47lney&ms=lva%2Crdu&mv=m&mvi=1&pl=23&initcwndbps=855000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=5LakFmE8BqAEfez5Gwpm5-wI&gir=yes&mt=1664608869&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&n=QGQEjozfMZ0YnA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKSpe8S_n-uuWa_YDa7HO6beFHBEzEc9swfuDqzI2sizAiAHN6USTRVzlccJI657PSEqj-BRFDDRQrdXDDXuWZ2Ydw%3D%3D&sig=AOq0QJ8wRQIgIXa4ETW8nNXXEfSI1thX6LsRt1Aoi4ZRvE1Yi-hJHBMCIQDng_boHy4-ar17pFBYaUXfC21EX6sKZ8kx9A208GmerA%3D%3D
+#EXTINF:-1, KRAL TV
+https://rr2---sn-8vq54voxu-5qcl.googlevideo.com/videoplayback?expire=1664630950&ei=Ruw3Y73WF47O1wKTvImYCg&ip=31.206.131.188&id=Z8-NunA-0aM.2&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=u5&mm=44%2C29&mn=sn-8vq54voxu-5qcl%2Csn-nv47lnlz&ms=lva%2Crdu&mv=m&mvi=2&pl=23&initcwndbps=855000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=73hJgGQHACvyDRfM96NVxRgI&gir=yes&mt=1664608869&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&n=Ukm2vBEDfE-2vQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAIBBXqzgMS6uttPTsUmb5B4HRFJZYCF-86dwuXx838jTAiEA5i1sGxoZEvRWbh-GRacdbZroRC5yuDLlSlME9H9kcog%3D&sig=AOq0QJ8wRQIhANbqXVfzGcAw9rOjcxw4oKmq49RXZ8jtzGxBFsUDwoPOAiBL366hl5dHRuUjT0ocorYt5iQZBeUZEqOyEaj6gRsdCg%3D%3D
+#EXTINF:-1, DREAM TÜRK
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_3_750/playlist.m3u8?key=2909f6701b4ac38e6edac33e325dadc8&live=true&app=com.dreamturk
+#EXTINF:-1, TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, MİNİKA GO
+https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=3zzS55X-vzerZnNaskwxNA&e=1664653316&SessionID=1.3.8451904.1664608114&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=web
+#EXTINF:-1, MİNİKA ÇOCUK
+https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=F4JRLjRJ-vX28ByI4QSagw&e=1664653741&SessionID=1.3.228281993.1664608540&StreamGroup=canli-yayin&Site=minikacocuk&DeviceGroup=web
+#EXTINF:-1,CARTOON NETWORK
+https://yayin1.canlitv.day/live2/cartoon-network.stream/chunklist_w634878315.m3u8?hash=e607f20063088c90b971f4749e4aba5b
+#EXTINF:-1, DİYANET TV
+https://live.canlitv.center/diyanettv.m3u8?anahtar=In3zTKK1u0sKodbtzSICaw&sure=1664630519&ip=31.206.131.188
+#EXTINF:-1, DOST TV
+https://live.canlitv.center/dosttv.m3u8?anahtar=NHm-PATlrvKuioOdkaAaoA&sure=1664630520&ip=31.206.131.188
+#EXTINF:-1, MEKKE TV
+https://rr2---sn-8vq54voxu-5qce.googlevideo.com/videoplayback?expire=1664630659&ei=I-s3Y4M7zPLWArWyp6gB&ip=31.206.131.188&id=h4LV2viNHmk.2&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=nE&mm=44%2C29&mn=sn-8vq54voxu-5qce%2Csn-nv47lnly&ms=lva%2Crdu&mv=m&mvi=2&pl=23&gcr=tr&initcwndbps=866250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=JsLWcrb2xFj79DyxpH1gaGII&gir=yes&mt=1664608622&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&n=57hbD90k-2d7Zw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgKNebXRLx4aCoTq8lQC3o4dS2JYEadnHSL8ZnyCQMeQcCIHDpvIZgDKoeQN9Bp6MjrAiFc2JKfOsD-zCG0ZC19ghy&sig=AOq0QJ8wRQIgTKWRFNOJb4rCxgGVTczsbe6AN6O8U6SZfFmsMrxTqBECIQDvHm7EXjPbimuL1DEjSKN2b1F4ZhbuHsqAL-HRaZ-eCg%3D%3D
