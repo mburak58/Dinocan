@@ -10,7 +10,10 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1, KANAL 24
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 #EXTINF:-1, ULUSAL KANAL
-https://live.canlitv.center/ulusalk.m3u8?anahtar=3uFoBZvAj6QAf1wsD36MrA&sure=1664628748&ip=31.206.131.188
+https://rr4---sn-u0g3uxax3-xnc6.googlevideo.com/videoplayback?expire=1664845394&ei=8DE7Y7-eHp3F1gK0nZPQDg&ip=78.184.93.15&id=08eJX0x9lWk.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=Us&mm=44%2C29&mn=sn-u0g3uxax3-xnc6%2Csn-nv47lns6&ms=lva%2Crdu&mv=m&mvi=4&pl=21&initcwndbps=735000&spc=yR2vp9NC0pHZspXeCojjGTB_r20ibsk&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=c1ppkrzGkl-9l2JbM5JADN4I&gir=yes&mt=1664823415&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=tdpm49do4rgtKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAPeQY-5HAQa9nWPw3EycZgCh8sJlpplSz6ukNO-dls09AiEApQxovm-0RkI9VGNneJe6y795sNs4McucKuV6orkD5NI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgObR3PKv1pg8GLQjodfc7mC9pmRIvTP796pX87yTraYMCIQCF8N_phPvfO-zx3xrPSp58PuoQg2kuZno6IXmLYZ0rnQ%3D%3D&alr=yes&cpn=zaqiwhU5VXjUXOqh&cver=1.20220928.01.00&sq=42975&pot=V0U6MTI6TWlzc2luZyBmaWVsZDpFcnJvcjogTWlzc2luZyBmaWVsZAogICAgYXQgaWFhLnUgKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3MvcGxheWVyL2EzMzZiYWJjL3BsYXllcl9pYXMudmZsc2V0L3RyX1RSL2Jhc2UuanM6NjgxOjYwKQogICAgYXQgeGEgKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3MvcGxheWVyL2EzMzZiYWJjL3BsYXllcl9pYXMudmZsc2V0L3RyX1RSL2Jhc2UuanM6NjE6NDApCiAgICBhdCBrYWEubmV4dCAoaHR0cHM6Ly93d3cueW91dHViZS5jb20vcy9wbGF5ZXIvYTMzNmJhYmMvcGxheWVyX2lhcy52ZmxzZXQvdHJfVFIvYmFzZS5qczo2Mjo5MikKICAgIGF0IGIgKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3MvcGxheWVyL2EzMzZiYWJjL3BsYXllcl9pYXMudmZsc2V0L3RyX1RSL2Jhc2UuanM6NjY6NDAp
+#EXTINF:-1, FLASH TV
+
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1, BLOOMBERG HD
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1, TRT 1
@@ -28,23 +31,22 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1, SHOW TV
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1, SHOW MAX
-https://live2.canlitv.center/showmax2.m3u8?anahtar=jTBJHplRRvc-3wYdaoBIoA&sure=1664628665&ip=31.206.131.188
+https://ciner-live.ercdn.net/showmax/showmax_576p.m3u8?e=1664831145&st=a_Db5_mpHUtxl4WD4NzV6A&tv=1
 #EXTINF:-1, BEYAZ  TV
-https://stream-01.ix7.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzI5dKmEC0O6spXKcZ8qgLwBv6InY4S3_8Z-IZjxjbAZT)/dm/3/x4kopfq/d/live-4.m3u8
+https://stream-06.ix7.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzAtM8ghdShyDHW7HadpVjrXPUqclJXKCfHhG6Xj7lxxG)/dm/3/x4kopfq/d/live-3.m3u8#cell=lcore
 #EXTINF:-1, FOX TV
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1664522826&st=lDdRO98cUgPMxnj74YLxqQ
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1664874419&st=8SahNQImv4WkZmT2ntmkAA
 #EXTINF:-1, 360 TV
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1, A2
-https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=yUDsWj6o6ubU-pcDC-yb-A&e=1664652945&SessionID=1.3.1558442888.1664559656&StreamGroup=canli-yayin&Site=&DeviceGroup=web&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c
+https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=9fefC7dM23ecFQm2li818w&e=1664869443&SessionID=knsr2kexrneq20a14vnmfu2f&StreamGroup=canli-yayin&Site=&DeviceGroup=mobil&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c&DeviceGroup=web&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c
 #EXTINF:-1, TEVE2
 https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?sid=4rwbw1qsk60j&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
-#EXTINF:-1, FLASH TV
-https://yayin5.canlitv.day/live/flashtv.stream/playlist.m3u8?hash=e607f20063088c90b971f4749e4aba5b
+
 #EXTINF:-1, TV 8 HD
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?sid=4rl8z1t79mrh&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1, TV 8,5
-https://mugla.tvizlehd.com/tv85.m3u8?tkn=51fXNMsQfunzfOa4FDfUhw&tms=1664620756&hst=tr.canlitv.link
+https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk_480p.m3u8?e=1664874372&st=ROyU0YQBlkeWx-HAGXA_7A
 #EXTINF:-1, CİNE5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w254805657.m3u8
 #EXTINF:-1, DMAX
@@ -60,7 +62,7 @@ http://195.155.98.170:5858/play/a09f?checkedby:iptvcat.com
 #EXTINF:-1, KÖY TV
 https://yayin1.canlitv.day/canlitv/koytv/chunklist_w1022560626.m3u8?hash=e607f20063088c90b971f4749e4aba5b
 #EXTINF:-1, ÇİFTÇİ TV
-https://h92.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8?nimblesessionid=22839387
+https://h92.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8?nimblesessionid=4671423
 #EXTINF:-1, İBB TV
 https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist_w1530964626.m3u8
 5858/play/a09f?checkedby:iptvcat.com
